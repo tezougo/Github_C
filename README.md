@@ -44,3 +44,8 @@ As soluções são implementações próprias e podem ser usadas como referênci
 - Commit suas mudanças (git commit -m 'Adiciona solução para o problema X')
 - Push para a branch (git push origin feature/nova-solucao)
 - Abra um Pull Request
+
+---
+
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para detalhes.
